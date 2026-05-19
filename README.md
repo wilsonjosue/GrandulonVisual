@@ -6,9 +6,13 @@ La aplicación permite observar cómo se realiza la elección de coordinador en 
 ## Estructura del proyecto
 
 bully_visual/
+
 │
+
 ├── bully_visual.py
+
 ├── README.md
+
 └── Documentacion.md
 
 ## Requisitos
