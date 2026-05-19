@@ -11,6 +11,8 @@ bully_visual/
 
 ├── bully_visual.py
 
+├── venv/
+
 ├── README.md
 
 └── Documentacion.md
